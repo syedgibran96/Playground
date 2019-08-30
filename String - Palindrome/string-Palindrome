@@ -1,0 +1,30 @@
+Input Format:
+
+Input consist of 1 string.
+
+
+Output Format:
+
+If the given string is a Palindrome display “Palindrome”, else display “Not a Palindrome”.
+
+
+
+Sample Input:
+
+computer
+
+
+Sample Output:
+
+Not a Palindrome
+
+    Case 1
+
+Input (stdin)
+
+amma
+
+
+Output (stdout)
+
+Palindrome

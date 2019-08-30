@@ -1,0 +1,29 @@
+Print the String 2
+Write a program to scan the string from the user and to print it.
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+Hello World
+
+
+Sample Output:
+
+Hello World
+
+
+    Case 1
+
+Input (stdin)
+
+Hello World
+
+
+Output (stdout)
+
+Hello World

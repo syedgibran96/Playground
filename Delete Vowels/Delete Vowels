@@ -1,0 +1,32 @@
+Delete Vowels
+Write a program to delete all vowels present in a string. 
+
+
+Input Format:
+
+Input consists of a string. Assume that all characters in the string are lowercase letters and the maximum length of the string is 200.
+
+
+
+Output Format:
+
+print the string without vowels
+
+
+
+Sample Input:
+
+amphisoft
+
+
+
+Sample Output:
+
+mphsft
+
+Case 1
+Input (stdin)
+face
+
+Output (stdout)
+fc

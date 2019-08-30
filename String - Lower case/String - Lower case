@@ -1,0 +1,28 @@
+String - Lower case
+Write a program to change the given string to lowercase using string library functions
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+FACE
+
+
+Sample Output:
+
+face
+
+    Case 1
+
+Input (stdin)
+
+FACE
+
+
+Output (stdout)
+
+face

@@ -1,0 +1,28 @@
+String - Reverse
+Write a program to find the reverse of the given without string using string library functions:
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+hello
+
+
+Sample & Output:
+
+olleh
+
+    Case 1
+
+Input (stdin)
+
+hello
+
+
+Output (stdout)
+
+olleh

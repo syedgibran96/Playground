@@ -1,0 +1,29 @@
+Compute a^n
+Write a program to compute a^n (a power n) using recursion.
+Input and Output Format: 
+
+Input consists of an integer.
+
+Refer sample input and output for formatting specifications.
+
+ 
+
+Sample Input and Output:
+
+2
+
+8
+
+
+
+Sample Output:
+
+The value of 2 power 8 is 256
+
+Case 1
+Input (stdin)
+2
+8
+
+Output (stdout)
+The value of 2 power 8 is 256

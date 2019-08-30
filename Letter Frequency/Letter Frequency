@@ -1,0 +1,45 @@
+Letter Frequency
+Write a program to compute the frequency of each lowercase letter in the string.
+
+
+Input Format:
+
+Input consists of a string. Assume that all characters in the string are lowercase letters and the maximum length of the string is 200.
+
+
+
+Output Format:
+
+The letters are displayed sorted in ascending order.
+
+
+
+Sample Input:
+
+anitha
+
+
+
+Sample Output:
+
+a 2
+
+h 1
+
+i 1
+
+n 1
+
+t 1
+
+
+
+Case 1
+Input (stdin)
+google
+
+Output (stdout)
+e1
+g2
+l1
+o2

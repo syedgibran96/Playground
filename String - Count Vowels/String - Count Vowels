@@ -1,0 +1,29 @@
+String - Count Vowels
+Write a program to count the number of vowels in the given string:
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+face
+
+
+Sample & Output:
+
+2
+
+
+    Case 1
+
+Input (stdin)
+
+face
+
+
+Output (stdout)
+
+2

@@ -1,0 +1,28 @@
+String - Copy
+Write a program to copy a string from one variable to other using string library functions:
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+hello
+
+
+Sample & Output:
+
+hello
+
+    Case 1
+
+Input (stdin)
+
+hello
+
+
+Output (stdout)
+
+hello

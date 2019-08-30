@@ -1,0 +1,29 @@
+
+String - Length - I
+Write a program to find the length of the given string using string library functions:
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+Face
+
+
+Sample Output:
+
+4
+
+    Case 1
+
+Input (stdin)
+
+Face
+
+
+Output (stdout)
+
+4

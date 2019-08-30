@@ -1,0 +1,28 @@
+String - Upper case
+Write a program to change the given string to uppercase without using string library functions
+
+
+Input Format:
+
+Input consist of 1 string.
+
+
+Sample Input:
+
+good
+
+
+Sample Output:
+
+GOOD
+
+    Case 1
+
+Input (stdin)
+
+good
+
+
+Output (stdout)
+
+GOOD
